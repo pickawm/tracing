@@ -20,21 +20,21 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Tracing Welty
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Exploring Eudora Welty's connections to the Natchez Trace.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Between 1940 and 1943, Eudora Welty set several stories and a novella along the Natchez Trace. She also wrote about this historic roadway in her 1944 essay, 'Some Notes on River Country.' Taking a cue from Digital Yoknapatawpha and like projects, Tracing Welty maps Welty's references to the Trace and uses historical materials to place them in different interpretive contexts."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Michael Pickard, Seraiah Lodge, Patricia Syner
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata 
+metadata: tracing 
 
 ##########
 # Site/Organization Branding 
