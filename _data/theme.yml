@@ -8,11 +8,11 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: demo_001
+featured-image: https://upload.wikimedia.org/wikipedia/commons/7/72/First_Presbyterian_Church_in_Rodney.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: # Default is center
+home-banner-image-position: center
 
 ##########
 # ITEM PAGE
@@ -38,8 +38,8 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 # MAP PAGE
 #
 # see _data/map-config.csv for field display options
-latitude: 46.727485 #to determine center of map
-longitude: -117.014185 #to determine center of map
+latitude: 31.5604 #to determine center of map
+longitude: -91.4032 #to determine center of map
 zoom-level: 7 # zoom level for map 
 map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery
 map-search: true # true/false, not suggested with large collections
@@ -83,7 +83,7 @@ bootswatch: # leave blank or comment out for plain bootstrap
 base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#0d6efd"
-base-font-family: # comment out for bootstrap defaults. e.g. Roboto
+base-font-family: Merriwhether # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
