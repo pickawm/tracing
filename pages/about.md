@@ -39,25 +39,15 @@ As evidenced by the analyses of these stories from The Wide Net, Welty was a mas
 
 Sources
 
-Brower, Robert Keith. Myths and legends in the stories of Eudora Welty. 1972. University of
+Brower, Robert Keith. Myths and legends in the stories of Eudora Welty. 1972. University of Richmond, master’s thesis. UR Scholarship Repository.
 
-Richmond, master’s thesis. UR Scholarship Repository.
+“Dionysian”. Encyclopedia Britannica, 17 Sep. 1999, www.britannica.com/art/Dionysian. Accessed 8 March 2022.
 
-“Dionysian”. Encyclopedia Britannica, 17 Sep. 1999, www.britannica.com/art/Dionysian.
+“Dionysus.” Encyclopedia Britannica, 26 May 2021, www.britannica.com/topic/Dionysus. Accessed 7 March 2022.
 
-Accessed 8 March 2022.
+Ford, Richard, and Michael Kreyling, editors. Eudora Welty: Stories, Essays & Memoir. The Library of America, 1998.
 
-“Dionysus.” Encyclopedia Britannica, 26 May 2021, www.britannica.com/topic/Dionysus.
-
-Accessed 7 March 2022.
-
-Ford, Richard, and Michael Kreyling, editors. Eudora Welty: Stories, Essays & Memoir. The
-
-Library of America, 1998.
-
-Koontz, Alana. The Art and Artifacts Associated with the Cult of Dionysus. 2013. University of
-
-Wisconsin-Milwaukee, master’s thesis.
+Koontz, Alana. The Art and Artifacts Associated with the Cult of Dionysus. 2013. University of Wisconsin-Milwaukee, master’s thesis.
 
 Welty, Eudora. “Asphodel.” Ford and Kreyling, pp. 241-251.
 
@@ -69,4 +59,4 @@ Welty, Eudora. “Asphodel.” Ford and Kreyling, pp. 241-251.
 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+# {% include cb/about_the_about.md %} 
