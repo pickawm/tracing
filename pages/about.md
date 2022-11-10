@@ -8,12 +8,11 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/5/52/Natchez_MS_by_%C3%89douard_de_Montul%C3%A9.jpg" %}
+{% include feature/jumbotron.html objectid="coll023" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## Dionysian Figures in Welty’s Fiction
-
 
 
 Nestled among a plethora of other skillfully executed literary techniques lie the many mythological allusions and symbols in Welty’s fiction. Most, if not all, the stories in The Wide Net reference either mythology or folklore, and such references span across various cultures and subjects. As such, significant scholarly work has been done in the analyzation of her symbols, some of which are still debated by various readers. Welty herself has written about her appreciation for and utilization of myth, though she also cautions readers not to force any of them too directly onto her work (Brower 5, 13). However, interpreting her stories within this framework reveals layers of literary value and adds complexity and depth to her fiction. Since it would prove quite impossible to cover the extent of her use of myth and folklore in one article, this essay will cover the specific role of Dionysian figures in Welty’s stories from The Wide Net.
