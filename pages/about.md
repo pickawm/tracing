@@ -96,7 +96,7 @@ __Sources__
 
 *“The Burr Conspiracy.” PBS, www.pbs.org/wgbh/americanexperience/features/duel-burr-conspiracy/*
 
-## The Harpe Brothers: Terrors on the Trace
+# The Harpe Brothers: Terrors on the Trace
 
 {% include feature/image.html objectid="coll026" width="25" caption=false %}
 
@@ -162,7 +162,7 @@ __Source__
 
 Coates, Robert M. _The Outlaw Years._ New York, The Literary Guild of America, 1930.
 
-## Murrell: A Malignant Mastermind
+# Murrell: A Malignant Mastermind
 
 {% include feature/image.html objectid="coll027" width="50" caption=false %}
 
