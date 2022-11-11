@@ -9,7 +9,7 @@ credits: true
 ---
 # Explorations
 
-{% include feature/nav-menu.html sections="Dionysian Figures in Welty's Fiction;The Burr Conspiracy: Early Schemes in the Southwest;The Harpe Brothers;Murrell" %}
+{% include feature/nav-menu.html sections="Dionysian Figures in Welty's Fiction;The Burr Conspiracy: Early Schemes in the Southwest;The Harpe Brothers: Terrors on the Trace;Murrell: A Malignant Mastermind" %}
 
 # Dionysian Figures in Welty’s Fiction
 
