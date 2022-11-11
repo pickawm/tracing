@@ -98,7 +98,7 @@ __Sources__
 
 # The Harpe Brothers: Terrors on the Trace
 
-{% include feature/image.html objectid="coll026" width="25" caption=false %}
+{% include feature/image.html objectid="coll026" width="50" caption=false %}
 
 _Note: The following account comes from the book The Outlaw Years by Robert M. Coates. His record of the lives of the outlaws and the events surrounding the Trace is not a complete, infallible account given his artistic embellishments, more recent discoveries, and the difficulty of distinguishing historical fact from folklore. However, the book holds much significance since Eudora Welty used it as a reference for her stories, and thus the information within it is valuable not only for its historical account but also for its usefulness in examining her writing._
 
